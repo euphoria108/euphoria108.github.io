@@ -1,7 +1,3 @@
----
-title: Daichi Yamazaki's Homepage
----
-
 # My journey
 
 ### Klab.Inc
