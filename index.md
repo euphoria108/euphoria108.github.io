@@ -1,6 +1,8 @@
-# Daichi Yamazaki's Homepage
+---
+title: Daichi Yamazaki's Homepage
+---
 
-## My journey
+# My journey
 
 ### Klab.Inc
 **AI Engineer as a Corporative Staff**  
@@ -18,6 +20,6 @@
 *2018.03*
 
 
-## Links
+# Links
  - [wantedly](https://www.wantedly.com/id/daichi_yamazaki)
  - 技術ブログ(ザックの雑記)
