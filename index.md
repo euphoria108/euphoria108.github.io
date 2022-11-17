@@ -5,11 +5,11 @@
 *2022.11 ~*
 
 ### Datamix
-**Teacher**
+**Teacher**  
 *2022.10 ~*
 
 ### AIacademy
-**Teacher**
+**Teacher**  
 *2021.11 ~*
 
 ### Klab Inc.
