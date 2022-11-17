@@ -1,4 +1,4 @@
-# My journey
+# Daichi Yamazaki's Home Page
 
 ### Gunosy Inc.
 **AI Engineer**  
